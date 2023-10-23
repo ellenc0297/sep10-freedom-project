@@ -1,5 +1,5 @@
 # SEP10
-##### By: Ellen Chen
+## By: Ellen Chen
 
 # Entry 1: Deciding on what topic I want (Arts)
 Text

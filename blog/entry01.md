@@ -2,7 +2,8 @@
 ## By: Ellen Chen
 
 # Entry 1: Deciding on what topic I want (Arts)
-Text
+##### 10/23/23
+
 
 [Next](entry02.md)
 

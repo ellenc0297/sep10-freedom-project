@@ -20,7 +20,7 @@ I have several commitments outside of school, such as from these examples like p
 
 #### How to Google
 
-When I Googled _arts technology_ or _technology arts_, obviously I'm not going to look through all 608 million results about arts. But after skimming through the titles and their descriptions was helpful. Instead, seeing titles of articles like [Arts](https://education.christies.com/news/2019/may/growing-relationship-between-art-technology#:~:text=Innovations%20in%20Art&text=Technology%20has%20made%20art%20far,wider%20and%20more%20diverse%20audience.) was more along the lines of what I wanted to find. Plus, changing my search from _arts technology_ to _arts technology innovations_ also filtered the results down to what I wanted to find.
+When I Googled _arts technology_ or _technology arts_, obviously I'm not going to look through all 608 million results about arts. But after skimming through the titles and their descriptions was helpful. Instead, seeing titles of articles like [Innovations in Art](https://education.christies.com/news/2019/may/growing-relationship-between-art-technology#:~:text=Innovations%20in%20Art&text=Technology%20has%20made%20art%20far,wider%20and%20more%20diverse%20audience.) was more along the lines of what I wanted to find. Plus, changing my search from _arts technology_ to _arts technology innovations_ also filtered the results down to what I wanted to find.
 
 #### Communication
 

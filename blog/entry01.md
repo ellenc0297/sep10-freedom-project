@@ -20,15 +20,18 @@ I have several commitments outside of school, such as from these examples like p
 
 #### How to Google
 
-When I Googled _arts technology_ or _technology arts_, obviously I'm not going to look through all 608 million results about arts. But after skimming through the titles and their descriptions was helpful. Instead, seeing titles of articles like [Innovations in Art](https://education.christies.com/news/2019/may/growing-relationship-between-art-technology#:~:text=Innovations%20in%20Art&text=Technology%20has%20made%20art%20far,wider%20and%20more%20diverse%20audience.) was more along the lines of what I wanted to find. Plus, changing my search from _arts technology_ to _arts technology innovations_ also filtered the results down to what I wanted to find.
+When I Googled _arts technology_ or _technology arts_, obviously I'm not going to look through all 608 million results about arts. But after skimming through the titles and their descriptions was helpful. Instead, seeing titles of articles like [Innovations in Art](https://education.christies.com/news/2019/may/growing-relationship-between-art-technology#:~:text=Innovations%20in%20Art&text=Technology%20has%20made%20art%20far,wider%20and%20more%20diverse%20audience.) was more along the lines of what I wanted to find. Plus, changing my search from _arts technology_ to _arts technology innovations_ also filtered the results down to what I wanted to find, with a lot of the information that I wanted. 
 
 #### Communication
 
-Communication was another important skill I have developed during my time. Since I’m working on this project with another person, it’s important to collaborate and talk to one another. At first, we were doing our own searches and not sharing what we found. But finally we made a collaborative Google Doc where we could compile the links we found interesting as an efficient way to share what we found. We plan to check-in with each other at least once a week about the project, probably on Sunday afternoons.
+Communication was another important skill I have developed during my time. Since I’m working on this project with another person, it’s important to collaborate and talk to one another. At first, we were doing our own searches and not sharing what we found. But finally we made a collaborative Google Doc where we could compile the links we found interesting as an efficient way to share what we found. We plan to check-in with each other at least once a week about the project, probably on Sunday afternoons or another time when I wanted to.
 
 ## Next steps
 
-I look forward to researching the existing innovations in visual arts!
+I look forward to researching the existing innovations in arts!
+
+## Summary
+
 
 [Next](entry02.md)
 

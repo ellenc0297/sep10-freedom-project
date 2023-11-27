@@ -1,5 +1,5 @@
 # Entry 2
-##### By: Ellen Chen
+### By: Ellen Chen
 ---
 ## Context 
 

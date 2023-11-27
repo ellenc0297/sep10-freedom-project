@@ -4,7 +4,7 @@
 ## Context
 
 #### What did I found 
-the info I have gathered regarding the software + hardware technologies that I found in my topic is 
+The info I have gathered regarding the software + hardware technologies that I found in my topic is puzzle realted to either software and hardware 
 
 
 

@@ -1,7 +1,9 @@
 # Entry 2
-##### X/X/XX
+##### By: Ellen Chen
+---
+## Context 
 
-Text
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 

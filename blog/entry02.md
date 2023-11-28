@@ -3,11 +3,11 @@
 ---
 ## Context
 
-The info I have gathered regarding the software + hardware technologies that I found in my topic is puzzle related to software and hardware technologies to find further details about my topic, but how did I find details about topic? What sources did I use? The sources I used are usually from googles and some intersting websites that are maybe related to my topic, to give me some ideas and have some further thoughts on my topic. 
+The info I have gathered regarding the software + hardware technologies that I found in my topic is puzzle related to software and hardware technologies to find further details about my topic, but how did I find details about topic? What sources did I use? The sources I used are usually from googles and some intersting websites that are maybe related to my topic, to give me some ideas and have some further thoughts on my topic. Here are some examples of my research for puzzles [Circut Electricty](https://assets.puzzlefactory.com/puzzle/316/621/original.jpg) is shows an example of puzzles of electricty because puzzles are usually about trails and error, which in a real-life conpect and context of my topic.  
 
 ## Engineering Design Process
 
-I am currently in the first stage of the my engineering design process, where my main goal is to try to define the and problem. The next stage is to research the problem and I plan to use not only articles and websites, but to also talk to my peers and those around me to discuss the issue and gain their input on the situation.
+Now, I am currently in the first stage of the my engineering design process, where my main goal is to try to define the and problem. The next stage is to research the problem and I plan to use not only articles and websites, but to also talk to my peers and those around me to discuss the issue and gain their input on the situation.
 
 ## Skills
 
@@ -23,7 +23,7 @@ When I Googled _puzzles software_ or _hardware puzzles_, obviously I'm not going
 
 #### Communication
 
-Communication was another important skill I have developed during my time. Since I’m working on this project with another person, it’s important to collaborate and talk to one another. At first, we were doing our own searches and not sharing what we found. But finally we made a collaborative Google Doc where we could compile the links we found interesting as an efficient way to share what we found. We plan to check-in with each other at least once a week about the project, probably on Sunday afternoons or another time when I wanted to.
+Communication was another important skill I have developed during my time. Since I’m working on this project with another person, it’s important to collaborate and talk to one another. But, at the same time I had a hard time communicate with my peers because I don't know them at well. But after talking about the same topic with me, we even begin to open up more to each other about our struggles and others stuff. It was a nice improvement and I was proud of myself with that now! 
 
 
 [Previous](entry01.md) | [Next](entry03.md)

@@ -10,13 +10,15 @@ The info I have gathered regarding the software + hardware technologies that I f
 
 The primary technologies I search for Hardware Technologies is 3D printing and Circut Electricty. People can use 3D print for anything that they wanted to print, for Circut Electricty it can be a toy to help kids do a little creativity with the circut. 
 
-## 3D Printing 
+### 3D Printing 
 
-3D printing is a process that creates three-dimensional objects using a digital design using machine, it can be involved by hardware and software technologies. But when I saw some video online about 3D printing, I think it can be connected to toys, so I decided to do some research. 
+3D printing is a process that creates three-dimensional objects using a digital design using machine, it can be involved by hardware and software technologies. But when I saw some video online about 3D printing, I think it can be connected to toys, so I decided to do some research about 3D printing, I found a website [Toy Box Webiste](https://toybox.com/) that help allows kids to choose a design of their own toy to look like. 
 
-## Electricty Circut 
+### Electricty Circut 
 
 Electricty Circut can be used for puzzles or toys. It can help kids play around with the circut and develop new skills using the [Electricty Circut](https://assets.puzzlefactory.com/puzzle/316/621/original.jpg), this is an example gave me ideas of toys, but this an example of a puzzles from electricty because puzzles are usually are just about trails and error, which can be good for the kids to play around with.  
+
+## 
 
 ## Engineering Design Process
 

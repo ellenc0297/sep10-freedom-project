@@ -18,7 +18,16 @@ The primary technologies I search for Hardware Technologies is 3D printing and C
 
 Electricty Circut can be used for puzzles or toys. It can help kids play around with the circut and develop new skills using the [Electricty Circut](https://assets.puzzlefactory.com/puzzle/316/621/original.jpg), this is an example gave me ideas of toys, but this an example of a puzzles from electricty because puzzles are usually are just about trails and error, which can be good for the kids to play around with.  
 
-## 
+## Software Technologies
+Some of the primary technologies that I found are some puzzle games and apps that has something to do with toys
+
+### Puzzle Game 
+
+Before games were created online across worldwide, people have to play physical puzzles made of woods, plastic and other materials, for example like those anicent chiness go people used to play as a puzzle game. But now we can play them online, some of the puzzle games that I found are [Monument Valley](https://www.monumentvalleygame.com/mvpc), [Unpacking](https://www.unpackinggame.com/), and Suika (The Watermelon Game). 
+
+### Apps that are conneted to Toys 
+
+The LEGO AR Studio created app that allow children to play with the ditgial verison of the LEGOs. Their [website](https://www.lego.com/en-us/aboutus/news/2019/october/lego-ar-studio?locale=en-us&consent-modal=show&age-gate=grown_up) discuss how children can start play with digital LEGO models in a real-world enivornment. 
 
 ## Engineering Design Process
 

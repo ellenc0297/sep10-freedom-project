@@ -1,5 +1,5 @@
 # Entry 2
-### By: Ellen Chen
+## By: Ellen Chen
 ##### 12/1/23
 ---
 ## Content 

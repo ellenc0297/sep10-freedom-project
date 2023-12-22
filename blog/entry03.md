@@ -35,7 +35,25 @@ For example, when the user puts on their vr, the user will be started with a plo
 * [Jianghui Z](https://jianghuiz7368.github.io/sep10-freedom-project/)
   I love how it looks so well organized, kinda fit their project and wanted to try something similar to that and also the top of their website shows you which part of the section you are at, (very chill and calm, I like it)
 
-  
+## Engineering Design Process
+
+Now, I am currently in the first stage of my engineering design process, where my main goal is to try to define my own problem. The next stage is to research the problem and I plan to use not only articles and websites, but to also talk to my partner and those around me to discuss the issue and gain their input on the situation, that I don't know and need some extra help.
+
+## Skills
+
+Some skills that I’ve learned from working on this blog are **time management**, **communication** **brainstroming**. 
+
+#### Time management
+
+I have several commitments outside of school, such as from these examples like tutoring some kids and to sometimes set times for myself, like don't procastinate while doing homework. But my workload at school is becoming busier, so I needed to make more time for myself to relax more. So I decided to go home immediately and start doing my homework immediately, and to get help if neccassary. I think this change will change how I moving forward.
+
+## Brainstroming 
+
+Brainstroming is another important type of skill, that is needed during this process because using brainstroming can help you what you needed to be put into your process of your topic, by doing that it can help you organized what necessary things that needed to be put at. (basically putting everything together as one) 
+
+#### Communication
+
+Communication was another important skill I have developed during my time. Since I’m working on this project with another person, it’s important to collaborate and talk to one another. But, at the same time I had a hard time communicate with my peers because I don't know them at well. But after talking about the same topic with me, we even begin to open up more to each other about our struggles and others stuff. It was a nice improvement and I was proud of myself with that now! 
 
 
 

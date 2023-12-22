@@ -47,7 +47,7 @@ Some skills that I’ve learned from working on this blog are **time management*
 
 I have several commitments outside of school, such as from these examples like tutoring some kids and to sometimes set times for myself, like don't procastinate while doing homework. But my workload at school is becoming busier, so I needed to make more time for myself to relax more. So I decided to go home immediately and start doing my homework immediately, and to get help if neccassary. I think this change will change how I moving forward.
 
-## Brainstroming 
+#### Brainstroming 
 
 Brainstroming is another important type of skill, that is needed during this process because using brainstroming can help you what you needed to be put into your process of your topic, by doing that it can help you organized what necessary things that needed to be put at. (basically putting everything together as one) 
 

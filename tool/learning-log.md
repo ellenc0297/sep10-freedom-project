@@ -5,7 +5,8 @@ Tool: AFrame
 ---
 
 2/5/24:
-* [JS Bin for AFrame](https://jsbin.com/yasapodubi/edit?html%252Coutput)
+* [JS Bin for AFrame](https://jsbin.com/yasapodubi/edit?html,output)
+* I tried it out with different ideas I can think of
 
 X/X/X:
 * Text

@@ -8,7 +8,7 @@ The info I have gathered regarding about Aframe, a 3D technologies that I found 
 Aframe is a generated code from HTML, without having to install anything on your computer from that the HTML can help you generate 3D models, of any 3D models of your choose
 
 # Tinker
-Tinker is a code you tru out based on your topic, the one I used is [JS Bin](https://jsbin.com/yayovaqemi/edit?html,output)
+Tinker is a code you tru out based on your topic, the one I used is [JS Bin](https://jsbin.com/yayovaqemi/edit?html,output) for the before I change 
 
 [Previous](entry03.md) | [Next](entry05.md)
 

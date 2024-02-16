@@ -11,7 +11,7 @@ Aframe is a generated code from HTML, without having to install anything on your
 Tinker is a code you tru out based on your topic, the one I used is [JS Bin](https://jsbin.com/yayovaqemi/edit?html,output) for the after I started using AFrame, this was before I started to use [JS Bin](https://jsbin.com/vejubowugi/edit?html,output), the difference was that I changed the color of all shapes, background and I changed the shape of the cylinder to cone. 
 
 After:
-```
+``` css
 <html>
   <head>
     <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>

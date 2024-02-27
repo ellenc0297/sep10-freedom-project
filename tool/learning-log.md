@@ -5,8 +5,10 @@ Tool: AFrame
 ---
 
 2/5/24:
-* [JS Bin for AFrame](https://jsbin.com/yasapodubi/edit?html,output)
-  * I tried it out with different ideas I can think of
+* [JS Bin for Aframe](https://jsbin.com/yasapodubi/edit?html,output)
+  * I tried it out with different ideas I can think of, which leads to me creating this
+  * Using the infomation from [Aframe](https://aframe.io/) which gives a lot of examples, espically the codes which you can test out
+  * I was able create an 3D model using from the link that I have, using that link I was able to learn a lot of new things
 
 X/X/X:
 * Text

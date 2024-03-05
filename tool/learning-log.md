@@ -14,7 +14,7 @@ Tool: AFrame
 * [Aframe Video](https://www.youtube.com/watch?v=cS8uGfd_oG8)
   * From the video I was able to learn some concept about the 3D model, for example watching the video and from the [Aframe](https://aframe.io/) website I get to learn more the code itself and what they do and create based on the video that I watch
   * Using the [Aframe](https://aframe.io/) can help bring you to understand the code like or using the example of the code itself from the webiste
-  * Using the website I was able to understand what the code do and able to use it as an example in the future
+  * Using the website I was able to understand what the code do and able to use it as an example for my future project, espcially the freedom project
 
 
 <!--

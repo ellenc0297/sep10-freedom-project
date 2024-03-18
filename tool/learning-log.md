@@ -21,7 +21,7 @@ Tool: AFrame
  * Using the document from the official webiste of Aframe, there was somethings that caught my attentions
  * I found [3D Model](https://aframe.io/docs/1.5.0/introduction/models.html) & [Best Pratice!](https://aframe.io/docs/1.5.0/introduction/best-practices.html)
  * I learned a lot from the 3D Model document because it talks about how I can create and animate the 3D Model, using those examples from the document.
- * But from the "best pratice" document, it doesn't make any sense to me. But I understand where it was going from the code showing the error people make and the solutions to it, but the code just I don't understand them, that much. 
+ * But from the "best practice" document, it doesn't make any sense to me. But I understand where it was going from the code showing the error people make and the solutions to it, but the code just I don't understand them, that much. 
 
 <!--
 * Links you used today (websites, videos, etc)

@@ -5,7 +5,7 @@ Tool: AFrame
 ---
 
 2/5/24:
-* [JS Bin for Aframe](https://jsbin.com/yasapodubi/edit?html,output)
+* [JSbin for Aframe](https://jsbin.com/yasapodubi/edit?html,output)
   * I tried it out with different ideas I can think of, which leads to me creating this
   * Using the infomation from [Aframe](https://aframe.io/) which gives a lot of examples, espically the codes which you can test out
   * I was able create an 3D model using from the link that I have, using that link I was able to learn a lot of new things
@@ -23,6 +23,9 @@ Tool: AFrame
  * I learned a lot from the 3D Model document because it talks about how I can create and animate the 3D Model, using those examples from the document.
  * But from the "best practice" document, it doesn't make any sense to me. But I understand where it was going from the code showing the error people make and the solutions to it, but the code just I don't understand them, that much. 
 
+3/18/24
+* [Jsbin for Animation](https://jsbin.com/yixitejehi/edit?html,output)
+  *  
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc

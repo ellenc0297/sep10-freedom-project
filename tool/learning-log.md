@@ -28,6 +28,10 @@ Tool: AFrame
   * When I was tinkering this code into Jsbin I learned a lot during from learning from [Aframe](https://aframe.io/), I learned more about how do animation from a help from my friend who was also doing Aframe.
   * Asking them to explain what animation do help me understand what it do from the code, but some of the code in the document doesn't make sense for me, kinda hard to read.
   * From the infromation given from my friend, my understanding from Animation became understandable, about how it works.
+
+3/25/24
+* [Jsbin for Basic Scene](https://jsbin.com/wabibihawa/edit?html,output)
+  * When I started tinkering the "Basic Scene" I slowly understand the concept of what "Basic" do and that we should start with the basic before any of the topic, making it very confusing for me. But after looking at the topic for "Basic" I understand the code a bit more. For example, " ``<a-scene>`` in the ``<body>``. ``<a-scene>`` will contain every entity in our scene. ``<a-scene>`` handles all of the setup that is required for 3D: setting up WebGL, the canvas, camera, lights, renderer, render loop as well as out of the box." From reading that I understand the scene a bit better and more. another example, "We can use ``<a-box>`` just like a normal HTML element, defining the tag and using HTML attributes to customize it. Some other examples of primitives that come with A-Frame include ``<a-cylinder>, <a-plane>, or <a-sphere>``. Here we define the color ``<a-box>``, see ``<a-box>‘s`` documentation for the more attributes (e.g., width, height, depth)." This shows that using those help you make anything using 3D model either animation or your choice of your own. 
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc

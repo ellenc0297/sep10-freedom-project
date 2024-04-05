@@ -35,7 +35,12 @@ Tool: AFrame
   * [Aframe for Basic Scene](https://aframe.io/docs/1.5.0/guides/building-a-basic-scene.html) this is where I get most of my basic infomation from trying to do my Jsbin, using Jsbin I was able to get a better visual of what was going on.
   * I learned how to add text in Aframe!
   * ``<a-entity text="value: Hello, A-Frame!; color: #BBB" position="-0.9 0.2 -3" scale="1.5 1.5 1.5"></a-entity>``
-  * Using this code can help me by "adding text" I was able to change what I needed to be put on my model, I was able to get a good visual of what it do and using this information from the document. 
+  * Using this code can help me by "adding text" I was able to change what I needed to be put on my model, I was able to get a good visual of what it do and using this information from the document.
+
+4/5/24
+* I'm currently learning how to make text on [Aframe for Text](https://aframe.io/docs/1.5.0/components/text.html)
+  * I'm confused on how the text appered in front of me. I tried if it was the poistion or the scale but it doesn't work at, but when I ask my friend they said it should work and appered
+  * I will see what's wrong with the code or try to ask again or try not to used Js Bin 
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc

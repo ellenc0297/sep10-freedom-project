@@ -4,7 +4,7 @@
 
 2/5/24:
 
-```css
+```
 <html>
   <head>
     <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
@@ -23,7 +23,7 @@
 
 3/18/24:
 
-```css
+```
 <html>
 <head>
   <meta charset="utf-8">
@@ -62,7 +62,7 @@
 
 3/25/24:
 
-```css
+```
 <html>
   <head>
     <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>

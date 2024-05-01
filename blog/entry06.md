@@ -6,6 +6,49 @@ In this project for my Freedom Project, I worked with Qilin to make my MVP, our 
 
 ## AFrame
 Aframe is the topic that I learned, but what is Aframe? Aframe is a generated code from HTML, without having to install anything on your computer from that the HTML, it can help you generate 3D models with either with headsets, mobile platforms and on desktop, of any 3D models of your choose. 
+``` css
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-text
+        class="words"
+        position="1 0 -3">
+      </a-entity>
+      <a-box
+        position="-2.5 1 0"
+        rotation="0 45 0"
+        scale="1 1 1"
+        color="#35374B">
+      </a-box>
+      <a-sphere
+        position="-0.7 1.22 0"
+        radius="0.1"
+        scale="1 0.5 1"
+        color="#EF2D5E">
+      </a-sphere>
+      <a-box
+        position="-2.2 1 0.3"
+        rotation="0 45 0"
+        scale="0.5 0.5 0.5"
+        color="#EF2D5E">
+      </a-box>
+      <a-torus
+        position="-0.7 1 0"
+        arc="360"
+        radius="0.7"
+        radius-tubular="0.03"
+        scale="0.5 0.3 1"
+        color="#E2DFD0">
+      </a-torus>
+      <a-sky color="#4287f5"></a-sky>
+    </a-scene>
+  </body>
+</html>
+  ```
+This an example of what I made for the future ideas in the future that could help improve the development of toys and puzzle
 
 ## Challenges & Takeaway 
 Some Takeaway I will say is that...
@@ -16,12 +59,11 @@ Some Challenges that I have is that...
 - **Having some scheduled of your own** I usually remember that I have homework to do, but I usually forget it in the end
 - **Contacting each other** since I don't know how to start a conversation with my friends, I usually will be shy on what I want to say to them. But at the same time when we text each other we will be either be busy or available at the specific time that we wanted it to be
 
-## Engineering Design Process (EDP)
-Now, I am currently in the first stage of my engineering design process, where my main goal is to try to define my own problem. The next stage is to research the problem and I plan to use not only articles and websites, but to also talk to my partner and those around me to discuss the issue and gain the results that I needed in my current situation, for example like the things that I don't know and need some extra help with.
-
 ## Sources
 The sources I used for creating this, was the official website of [AFrame](https://aframe.io/docs/1.5.0/introduction/) and youtube which I use it in case I don't understand something about the specific topic that I don't understand, while using this it will show you some examples like the code to use to begin it, I used the code to play around with the HTML to see if the code actually work for me or not. Using trails and error can help me see my mistake, by following the steps, helps me understand what needed to be added or not, which I just slowly play around with the code to see the result and using my prior knowledge of HTML to help create what I got.
 
+## Engineering Design Process (EDP)
+Now, I am currently in the first stage of my engineering design process, where my main goal is to try to define my own problem. The next stage is to research the problem and I plan to use not only articles and websites, but to also talk to my partner and those around me to discuss the issue and gain the results that I needed in my current situation, for example like the things that I don't know and need some extra help with.
 ## Skills
 
 Some skills that I’ve learned from working on this blog are **time management** and **brainstroming**.

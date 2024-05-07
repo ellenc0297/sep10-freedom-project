@@ -18,7 +18,6 @@
 #### MVP
 
 * Task/Timeline
-
  *   4/12/24 Friday - Plan
  *   4/15+4/16 Monday + Tuesday - Finish/orgainzed content
  *   4/17/24 Wednesday - Find picture/research = navbar, homepage

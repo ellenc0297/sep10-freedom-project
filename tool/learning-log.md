@@ -40,7 +40,7 @@ Tool: AFrame
 4/5/24
 * I'm currently learning how to make text on [Aframe for Text](https://aframe.io/docs/1.5.0/components/text.html)
   * I'm confused on how the text appered in front of me. I tried if it was the poistion or the scale but it doesn't work at, but when I ask my friend they said it should work and appered
-  * I will see what's wrong with the code or try to ask again or try not to used Js Bin 
+  * I will see what's wrong with the code or try to ask again or try not to used Js Bin
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc

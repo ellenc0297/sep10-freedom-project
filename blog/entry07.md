@@ -24,7 +24,7 @@ Some Challenges that I have is that...
 Now, I am currently in the first stage of my engineering design process, where my main goal is to try to define my own problem. The next stage is to research the problem and I plan to use not only articles and websites, but to also talk to my partner and those around me to discuss the issue and gain the results that I needed in my current situation, for example like the things that I don't know and need some extra help with.
 ## Skills
 
-Some skills that I’ve learned from working on this blog are **time management** and **brainstroming**.
+Some skills that I’ve learned from working on this blog are **time management**, **brainstroming** and **Communication**.
 
 #### Time management
 
@@ -33,6 +33,10 @@ I have several commitments outside of school, such as from these examples like t
 #### Brainstroming
 
 Brainstroming is another important type of skill, that is needed during this process because using brainstroming can help you what you needed to be put into your process of your topic, by doing that it can help you organized what necessary things that needed to be put at. (basically putting everything together as one) Using this skill can help me improved how I'm going to write to make the wording make more sense and understandable for those who read it.
+
+### Communication 
+
+Communication is also another important type of skill to have during SEP. Since I’m working going to work on this project with another person, for me, it’s very important to collaborate and talk to one another. But, at the same time I had a hard time communicate with my peers because I don't know them at very well. But after talking about the same topic with me that we maybe struggle with, which we even begin to open up more to each other about our struggles and others stuff. It was a nice improvement and I was proud of myself with that now! But if it was friends I will have to reach out to them if I needed any help from them to help me understand if I am struggling with something I don't know. 
 
 [Previous](entry06.md) | [Next](entry08.md)
 

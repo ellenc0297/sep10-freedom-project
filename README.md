@@ -12,7 +12,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 [Product](https://github.com/ellenc0297/sep10-freedom-project/blob/main/toysproject/toy-aframe.html)
 
-[Presentation](hhtps://docs.google.com/presentation/d/1glgH9jph1g-d7wHwDeJotlWYjZ-MWQukFolTyd9ITBw/edit#slide=id.g2dbf79cbe50_1_0)
+[Presentation](https://docs.google.com/presentation/d/1glgH9jph1g-d7wHwDeJotlWYjZ-MWQukFolTyd9ITBw/edit#slide=id.g2dbf79cbe50_1_0)
 
 ## Implications
 ##### PROS

@@ -19,9 +19,10 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 * Individuals - Tells the readers about "Toys and Puzzle" can impact by technologies from showing them from my project, giving them a brif information about the software and hardware that already existed and related to toys and puzzle 
 * Jobs - Gives ideas about toys and puzzle desginers giving them ideas about what kind of technologies they can make in the future
 * Finance - Companies may invest to help create the new toys and puzzle that I showed in my project
-* Relationship - 
+* Relationship - One of my future ideas involve sharing your life as a game, so this allows people to learn more about each other. 
 ##### CONS
-* 
+* Laws - One of my future ideas involves using AI from our product, there may be new laws created to indicate the limitation of the use of AI in the product
+* Job - One of my future ideas involves making toys on your own, so maybe in the future there will be less people buying toys which no one will make toys to sell
 
 
 ## Blog

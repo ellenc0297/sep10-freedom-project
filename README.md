@@ -1,10 +1,10 @@
 # SEP10 Freedom Project
-by **ELlen Chen**
+by **Ellen Chen**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of **Toys and Puzzle**. 
 
 I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **Aframe** in order to help me make by website.
 
@@ -12,7 +12,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 [Product](https://github.com/ellenc0297/sep10-freedom-project/blob/main/toysproject/toy-aframe.html)
 
-[Presentation]()
+[Presentation](hhtps://docs.google.com/presentation/d/1glgH9jph1g-d7wHwDeJotlWYjZ-MWQukFolTyd9ITBw/edit#slide=id.g2dbf79cbe50_1_0)
 
 ## Implications
 ##### PROS

@@ -16,7 +16,10 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 ## Implications
 ##### PROS
-* 
+* Individuals - Tells the readers about "Toys and Puzzle" can impact by technologies from showing them from my project, giving them a brif information about the software and hardware that already existed and related to toys and puzzle 
+* Jobs - Gives ideas about toys and puzzle desginers giving them ideas about what kind of technologies they can make in the future
+* Finance - Companies may invest to help create the new toys and puzzle that I showed in my project
+* Relationship - 
 ##### CONS
 * 
 
